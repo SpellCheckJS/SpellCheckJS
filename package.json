@@ -1,0 +1,19 @@
+{
+  "name": "@spellcheckjs/spellcheckjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spellcheck.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpellCheckJS/SpellCheckJS.git"
+  },
+  "author": "hello-smile6",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SpellCheckJS/SpellCheckJS/issues"
+  },
+  "homepage": "https://github.com/SpellCheckJS/SpellCheckJS#readme"
+}
